@@ -1,0 +1,2 @@
+# CpSci-1570-Final-Project
+This is the final project of Computer Science 1570. The goal was to simulate townspeople (from The Simpsons) purchasing items in stores based on their inclination. The townspeople would all then go back to the street, and either steal from or throw items at others. If they got too happy or too sad based on their interactions, they would leave town. A very strange project, but a fun one.
